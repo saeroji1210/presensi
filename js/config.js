@@ -6,7 +6,7 @@
 window.APP_CONFIG = {
   // URL Web App API (Deploy → Web app → URL yang berakhiran /exec)
   // Biarkan berisi XXXX untuk mencoba MODE DEMO (data contoh, tanpa server).
-  GAS_URL: 'https://script.google.com/macros/library/d/1L6MuOnC7CEkdXfjszJ2Q-UJM6Mw0OqYIlvycXvxUjNAar4YbSXXFqNWw/1',
+  GAS_URL: 'https://script.google.com/macros/s/AKfycbzPtQyMwnOUOjeBaR2b1r7igNIFzaAc6RyHS-ofgNlt_qn13hA0QbuZMNVwQ24bCxoo/exec',
 
   // Opsional: nama instansi untuk layar login sebelum terhubung ke server
   NAMA_INSTANSI: 'Nama Instansi',
